@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "express-jwt": "^5.3.3",
     "express-validator": "^6.6.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "morgan": "^1.10.0",
     "sqlite3": "^4.2.0"
   }
